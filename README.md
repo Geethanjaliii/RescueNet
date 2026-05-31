@@ -1,6 +1,6 @@
 # 🚨 RescueNet
 
-> Copyright (c) 2026 VN GEETHANJAIL. All rights reserved.
+> Copyright (c) 2026 VN GEETHANJAIL. All rights reserved
 
 > Intelligent Emergency Response During the Golden Hour
 
