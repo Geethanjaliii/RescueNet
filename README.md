@@ -6,7 +6,7 @@
 
 RescueNet is an AI-powered emergency response platform designed to provide immediate assistance during road accidents and medical emergencies. The system helps users quickly locate nearby emergency services, trigger SOS alerts, access first-aid guidance, and simulate automated crash response workflows.
 
-Built as a hackathon MVP focused on speed, accessibility, and life-saving emergency coordination.
+Built as a hackathon MVP focused on speed, accessibility, and life-saving emergency coordination
 
 ---
 
